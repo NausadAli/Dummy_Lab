@@ -1,7 +1,12 @@
+# Table Example
 
-<!--    Just add this component under table tag -->
-<tr>
-        <td>Roll No</td>
-        <td>Name</td>
-        <td>username</td>
-</tr>
+This is an example of how to create an HTML table with three columns: Roll No, Name, and Username.
+
+## HTML Code
+
+```html
+    <tr>
+        <th>Roll No</th>
+        <th>Name</th>
+        <th>Username</th>
+    </tr>
