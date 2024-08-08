@@ -1,5 +1,5 @@
 
-<!--    Just add this component here -->
+<!--    Just add this component under table tag -->
 <tr>
         <td>Roll No</td>
         <td>Name</td>
